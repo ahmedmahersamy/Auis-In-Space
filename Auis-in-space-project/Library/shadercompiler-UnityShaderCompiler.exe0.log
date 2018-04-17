@@ -1,8 +1,2 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
-<<<<<<< HEAD
-=======
-Unhandled exception: Protocol error - failed to read correct magic number
-
-Quitting shader compiler process
->>>>>>> 4876554a1e54b174c355428674d70f2b0fa028b1
